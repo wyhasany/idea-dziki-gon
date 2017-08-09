@@ -106,3 +106,5 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 | <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj cokolwiek (plik, klasę, metodę, test…) |
 | <kbd>Ctrl</kbd> + <kbd>k</kbd> | git commit |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd> | git push |
+
+Matka wszystkich skrótów: <kbd>Shift</kbd> <kbd>Shift</kbd> (double-click)
