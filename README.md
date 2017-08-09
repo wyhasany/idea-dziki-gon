@@ -48,8 +48,7 @@ controls: true
 
 * programiści na głos rozmawiają o implementowanym rozwiązaniu
 * i wykonują sugestie prowadzących
-* <span style="color:red">Nikt nie zabiera głosu po za prowadzącymi i programistami</span>
-* chyba, że pozwolimy  ( ͡° ͜ʖ ͡°)
+* sesja jest interaktywna - liczymy na Waszą aktywność
 
 --
 
