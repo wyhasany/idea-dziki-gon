@@ -9,12 +9,12 @@ controls: true
 --
 
 # IDEA - Dziki gon
-## Czyli jak wykorzystać IDE, aby stało się szybkim i silnym zabujcą 
+## Czyli jak wykorzystać IDE, aby stało się szybkim i silnym zabójcą 
 
 --
 
 # Motywacja
-> Kto nie używają `Ctrl + C` i `Ctrl + V` do kopiowania?  
+> Kto nie używa `Ctrl + C` i `Ctrl + V` do kopiowania?  
 
 --
 
@@ -97,7 +97,8 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 
 | Skrót | Akcja |
 | ----- | --------|
-| <kbd>Alt</kbd>+ <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie linii kodu góra/dół |
+| <kbd>Ctrl</kbd> + <kbd>y</kbd> | usunięcie obecnej linii |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie linii kodu góra/dół |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie całej metody / bloku kodu |
 | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>m</kbd> | wydziel metodę |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd> | otwórz klasę |
@@ -105,3 +106,5 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 | <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj cokolwiek (plik, klasę, metodę, test…) |
 | <kbd>Ctrl</kbd> + <kbd>k</kbd> | git commit |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd> | git push |
+
+Matka wszystkich skrótów: <kbd>Shift</kbd> <kbd>Shift</kbd> (double-click)
