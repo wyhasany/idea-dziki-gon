@@ -13,6 +13,11 @@ controls: true
 
 --
 
+# Motywacja
+> Kto nie używają `Ctrl + C` i `Ctrl + V` do kopiowania?  
+
+--
+
 ### Program na dziś
 
 * Reguły
@@ -36,7 +41,7 @@ controls: true
 * i wspólnie kodują
 * po pięciu minutach zmienia się jeden programista
 * po kolejnych 5. drugi
-* nikt nie siedzi przy komputerze dłużej niż 10 minut
+* żadna para nie siedzi przy komputerze dłużej niż 10 minut
 
 --
 
@@ -48,8 +53,7 @@ controls: true
 
 * programiści na głos rozmawiają o implementowanym rozwiązaniu
 * i wykonują sugestie prowadzących
-* <span style="color:red">Nikt nie zabiera głosu po za prowadzącymi i programistami</span>
-* chyba, że pozwolimy  ( ͡° ͜ʖ ͡°)
+* sesja jest interaktywna - liczymy na Waszą aktywność
 
 --
 
@@ -88,3 +92,16 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 |<kbd>Ctrl+Shift+F12</kbd>|Maksymalizacja edytora|
 |<kbd>Enter</kbd>|Otworzenie pliku (z okna Project)|
 |<kbd>F4</kbd>|Otwarcie i skok do pliku|
+
+#To musisz zapamiętać!
+
+| Skrót | Akcja |
+| ----- | --------|
+| <kbd>Alt</kbd>+ <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie linii kodu góra/dół |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie całej metody / bloku kodu |
+| <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>m</kbd> | wydziel metodę |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd> | otwórz klasę |
+| <kbd>Ctrl</kbd> + <kbd>f12</kbd> | pokaż overview obecnego pliku |
+| <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj cokolwiek (plik, klasę, metodę, test…) |
+| <kbd>Ctrl</kbd> + <kbd>k</kbd> | git commit |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd> | git push |
