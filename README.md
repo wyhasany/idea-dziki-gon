@@ -14,7 +14,10 @@ controls: true
 --
 
 # Motywacja
-> Kto nie używa `Ctrl + C` i `Ctrl + V` do kopiowania?  
+
+> Kto nie używa <kbd>Ctrl</kbd> + <kbd>C</kbd> i <kbd>Ctrl</kbd> + <kbd>V</kbd> do kopiowania?  
+
+> Kto nie używa <kbd>Del</kbd> do usuwania?  
 
 --
 
@@ -97,25 +100,26 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 
 --
 
-##To musisz zapamiętać!
-
 | Skrót | Akcja |
-| ----- | --------|
+| ------ | --- |
 | <kbd>Ctrl</kbd> + <kbd>y</kbd> | usunięcie obecnej linii |
-| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie linii kodu góra/dół |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie całej metody / bloku kodu |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>&#x2191;</kbd> | przesuwanie linii kodu góra/dół |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>&#x2191;</kbd> | przesuwanie metody / bloku kodu |
 | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>m</kbd> | wydziel metodę |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd> | otwórz klasę |
-| <kbd>Ctrl</kbd> + <kbd>f12</kbd> | pokaż overview obecnego pliku |
-| <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj cokolwiek (plik, klasę, metodę, test…) |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd> | otwórz plik |
+| <kbd>Ctrl</kbd> + <kbd>f12</kbd> | overview obecnego pliku |
+| <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj (plik, klasę, metodę, test…) |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>f10</kbd> | run |
+| <kbd>Alt</kbd> + <kbd>9</kbd> | git log |
 | <kbd>Ctrl</kbd> + <kbd>k</kbd> | git commit |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd> | git push |
 
---
+-- center
 
-Matka wszystkich skrótów: <kbd>Shift</kbd> <kbd>Shift</kbd> (double-click)
+#Shift Shift 
 
-... albo <kbd>Ctrl</kbd>+<kbd>A</kbd>
+
+<center>... albo <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd></center>
 
 --
 
