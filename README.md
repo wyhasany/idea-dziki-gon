@@ -108,6 +108,7 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 | <kbd>Ctrl</kbd> + <kbd>f12</kbd> | pokaż overview obecnego pliku |
 | <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj cokolwiek (plik, klasę, metodę, test…) |
 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>f10</kbd> | run |
+| <kbd>Alt</kbd> + <kbd>9</kbd> | git log |
 | <kbd>Ctrl</kbd> + <kbd>k</kbd> | git commit |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd> | git push |
 
