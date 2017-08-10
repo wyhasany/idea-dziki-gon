@@ -100,8 +100,6 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 
 --
 
-##To musisz zapamiętać!
-
 | Skrót | Akcja |
 | ------ | --- |
 | <kbd>Ctrl</kbd> + <kbd>y</kbd> | usunięcie obecnej linii |
@@ -122,7 +120,7 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 
 <center>skrót do skrótów</center>
 
-... albo <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd>
+<center>... albo <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd></center>
 
 --
 
