@@ -118,7 +118,6 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 
 #Shift Shift 
 
-<center>skrót do skrótów</center>
 
 <center>... albo <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd></center>
 
