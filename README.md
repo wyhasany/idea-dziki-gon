@@ -66,6 +66,8 @@ controls: true
 
 ##do roboty!
 
+https://goo.gl/D8RWwD
+
 --
 
 #Tricks and tips
@@ -98,6 +100,8 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 
 --
 
+##To musisz zapamiętać!
+
 | Skrót | Akcja |
 | ------ | --- |
 | <kbd>Ctrl</kbd> + <kbd>y</kbd> | usunięcie obecnej linii |
@@ -117,3 +121,74 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 #Shift Shift 
 
 <center>skrót do skrótów</center>
+
+... albo <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd>
+
+--
+
+###Multi - caret
+
+![multicaret](images/multiple_selections.gif)
+
+--
+
+###Ctrl + Shift + Lewo/Prawo
+
+![resize_1](images/resize_1.png)
+
+--
+
+###Ctrl + Shift + Góra/Dół
+
+![resize_2](images/resize_2.png)
+
+--
+
+###Nie potrzebujesz tabów!
+
+![tabs](images/tabs.png)
+
+--
+
+Zamiast tego użyj skrótu:
+
+|Skrót|Akcja|
+|:--	|--:	|
+|<kbd>Ctrl+E</kbd>|Ostatnie pliki|
+|<kbd>Ctrl+Shift+Tab</kbd>|Okna|
+|<kbd>Ctrl+Tab</kbd>|Skok do ostatniego pliku|
+|<kbd>Ctrl+Shift+E</kbd>|Skok do ostatnio edytowanego pliku|
+
+--
+
+##A jak to wszystko spamiętać?
+
+* ćwiczyć
+* ćwiczyć
+* Key Promoter, Presentation Assistant
+
+--
+
+##Nie warto wyłączać
+
+![tips](images/tips.png)
+
+--
+
+##Co jeszcze mogę poprawić?
+
+Help -> Productivity Guide
+
+![tabs](images/productivity.png)
+
+--
+
+##Naklejki na klawiaturę
+
+![tabs](images/keyboard.jpg)
+
+--
+
+#Dzięki!
+
+
