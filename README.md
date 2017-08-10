@@ -96,20 +96,24 @@ Dwukrotne kliknięcie kombinacji zamyka okno
 |<kbd>Enter</kbd>|Otworzenie pliku (z okna Project)|
 |<kbd>F4</kbd>|Otwarcie i skok do pliku|
 
-#To musisz zapamiętać!
+--
 
 | Skrót | Akcja |
-| --- | --- |
+| ------ | --- |
 | <kbd>Ctrl</kbd> + <kbd>y</kbd> | usunięcie obecnej linii |
-| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie linii kodu góra/dół |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>góra/dół</kbd> | przesuwanie całej metody / bloku kodu |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>&#x2191;</kbd> | przesuwanie linii kodu góra/dół |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>&#x2191;</kbd> | przesuwanie metody / bloku kodu |
 | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>m</kbd> | wydziel metodę |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd> | otwórz plik |
-| <kbd>Ctrl</kbd> + <kbd>f12</kbd> | pokaż overview obecnego pliku |
-| <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj cokolwiek (plik, klasę, metodę, test…) |
+| <kbd>Ctrl</kbd> + <kbd>f12</kbd> | overview obecnego pliku |
+| <kbd>Alt</kbd> + <kbd>Insert</kbd> | dodaj (plik, klasę, metodę, test…) |
 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>f10</kbd> | run |
 | <kbd>Alt</kbd> + <kbd>9</kbd> | git log |
 | <kbd>Ctrl</kbd> + <kbd>k</kbd> | git commit |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>k</kbd> | git push |
 
-Matka wszystkich skrótów: <kbd>Shift</kbd> <kbd>Shift</kbd> (double-click)
+-- center
+
+#Shift Shift 
+
+<center>skrót do skrótów</center>
